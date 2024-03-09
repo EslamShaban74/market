@@ -1,6 +1,5 @@
 import 'package:black_market/app/constants.dart';
 import 'package:black_market/data/data_source/remote_data_source.dart';
-import 'package:black_market/data/model/responses/currency_response.dart';
 import 'package:black_market/data/model/responses/failure/failure.dart';
 import 'package:black_market/data/model/responses/gold_prices_response.dart';
 import 'package:black_market/data/network/network_info.dart';
